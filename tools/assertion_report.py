@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/tools/assertion_report.py

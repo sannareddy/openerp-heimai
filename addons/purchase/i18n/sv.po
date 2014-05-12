@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/purchase/i18n/sv.po

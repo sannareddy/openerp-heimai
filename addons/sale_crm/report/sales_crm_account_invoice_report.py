@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/sale_crm/report/sales_crm_account_invoice_report.py

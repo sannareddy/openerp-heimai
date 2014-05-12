@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/web/static/test/list-utils.js

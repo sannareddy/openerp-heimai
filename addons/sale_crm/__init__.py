@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/sale_crm/__init__.py

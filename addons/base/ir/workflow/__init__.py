@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/base/ir/workflow/__init__.py

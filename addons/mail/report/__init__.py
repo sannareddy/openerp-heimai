@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/mail/report/__init__.py

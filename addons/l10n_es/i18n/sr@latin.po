@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/l10n_es/i18n/sr@latin.po

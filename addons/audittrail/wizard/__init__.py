@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/audittrail/wizard/__init__.py

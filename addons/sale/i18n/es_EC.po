@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/sale/i18n/es_EC.po

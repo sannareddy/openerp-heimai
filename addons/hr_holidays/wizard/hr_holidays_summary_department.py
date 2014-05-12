@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/hr_holidays/wizard/hr_holidays_summary_department.py

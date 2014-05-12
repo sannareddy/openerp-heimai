@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/membership/wizard/membership_invoice.py

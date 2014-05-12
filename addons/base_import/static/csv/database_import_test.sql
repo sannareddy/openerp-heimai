@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/base_import/static/csv/database_import_test.sql

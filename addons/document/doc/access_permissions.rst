@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/document/doc/access_permissions.rst

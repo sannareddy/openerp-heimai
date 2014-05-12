@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/report_webkit/__openerp__.py

@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/l10n_be_coda/test_coda_file/Ontvangen_CODA.2011-01-11-18.59.15.txt

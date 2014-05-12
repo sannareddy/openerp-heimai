@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/tests/test_ir_sequence.py

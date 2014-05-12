@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/modules/module.py

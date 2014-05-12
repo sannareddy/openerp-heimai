@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/tools/test_reports.py

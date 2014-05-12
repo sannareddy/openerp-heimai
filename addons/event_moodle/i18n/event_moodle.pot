@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/event_moodle/i18n/event_moodle.pot

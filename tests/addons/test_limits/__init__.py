@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/tests/addons/test_limits/__init__.py

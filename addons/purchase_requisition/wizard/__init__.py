@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/purchase_requisition/wizard/__init__.py

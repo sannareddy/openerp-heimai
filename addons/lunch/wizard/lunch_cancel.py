@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/lunch/wizard/lunch_cancel.py

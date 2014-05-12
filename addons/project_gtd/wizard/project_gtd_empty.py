@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/project_gtd/wizard/project_gtd_empty.py

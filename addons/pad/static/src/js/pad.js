@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/pad/static/src/js/pad.js

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+    <data >
+        <record id="oscg_approve_flow_tree" model="ir.ui.view">
+            <field name="name">oscg.approve.flow.tree</field>
+            <field name="model">approve.flow</field>
+            <field name="arch" type="xml">
+                <tree string="审批流程配置">
+                    <field name="name"/>
+                    <field name="res_model" />
+                </tree>
+            </field>
+        </record>
+
+        <record id="oscg_approve_flow_form" model="ir.ui.view">
+            <field name="name">oscg.approve.flow.form</field>
+            <field name="model">approve.flow</field>
+            <field name="arch" type="xml">
+                <form string="审批流程配置">
+                    <field name="name"/>
+                    <field name="res_model"/>
+                    <field name="step_ids" nolabel="1" colspan="4" >
+                        <tree string="审批步骤" editable="bottom">
+                            <field name="sequence" />
+                            <field name="role_id" domain="[('category_id','=',%(oscg_approve.oscg_approve_role_group)d)]" />
+                            <field name="user_id" />
+                            <field name="stage" />
+                            <field name="stage_name" />
+                            <field name="domain" />
+                            <field name="countersign" />
+                        </tree>
+                    </field>
+                </form>
+            </field>
+        </record>
+
+        <record id="act_oscg_approve_flow_config" model="ir.actions.act_window">
+            <field name="name">审批流程配置</field>
+            <field name="res_model">approve.flow</field>
+            <field name="view_type">form</field>
+            <field name="view_mode">tree,form</field>
+        </record>
+        
+        <menuitem id="menu_oscg_approve_flow_config" parent="base.menu_custom" sequence="11" name="OSCG审批流" />
+        <menuitem id="menu_oscg_approve_flow_list" action="act_oscg_approve_flow_config" parent="menu_oscg_approve_flow_config" sequence="20"/>
+
+        <record id="oscg_approve_log_tree" model="ir.ui.view">
+            <field name="name">oscg.approve.log.tree</field>
+            <field name="model">approve.log</field>
+            <field name="arch" type="xml">
+                <tree string="审批日志" editable="bottom" create="0" delete="0">
+                    <field name="sequence"/>
+                    <field name="role_id" />
+                    <field name="user_id" domain="[('groups_id','in', role_id)]"/>
+                    <field name="approve_desc" />
+                    <field name="approve_date"/>
+                    <field name="countersign"  />
+                    <field name="notify"  invisible="1"/>
+                    <field name="id"  invisible="1"/>
+                </tree>
+            </field>
+        </record>
+
+        <record id="oscg_approve_log_form" model="ir.ui.view">
+            <field name="name">oscg.approve.log.form</field>
+            <field name="model">approve.log</field>
+            <field name="arch" type="xml">
+                <form string="审批日志">
+                    <field name="sequence"/>
+                    <field name="role_id" />
+                    <field name="approve_desc" />
+                    <field name="approve_date"/>
+                    <field name="user_id" attrs="{'readonly':[('approve_date','!=',False)]}"/>
+                    <field name="countersign" />
+                    <field name="notify" />
+                    <field name="step_id" />
+                </form>
+            </field>
+        </record>
+
+
+    </data>
+</openerp>

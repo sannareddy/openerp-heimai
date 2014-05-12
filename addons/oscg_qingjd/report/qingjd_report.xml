@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+    <data>
+
+        <report id="report_oscg_qingjd" model="oscg_qingjd" name="qingjd" rml="oscg_qingjd/report/qingjd_report.rml" string="打印请假单" auto="False"/>
+
+    </data>
+</openerp>

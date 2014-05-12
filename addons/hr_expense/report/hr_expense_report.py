@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/hr_expense/report/hr_expense_report.py

@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/sale_mrp/i18n/tr.po

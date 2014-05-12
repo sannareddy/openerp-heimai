@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/anonymization/__init__.py

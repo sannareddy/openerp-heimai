@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/marketing_campaign/report/__init__.py

@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/base/ir/__init__.py

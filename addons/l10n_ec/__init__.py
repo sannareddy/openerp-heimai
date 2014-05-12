@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/l10n_ec/__init__.py

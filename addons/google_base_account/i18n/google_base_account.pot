@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/google_base_account/i18n/google_base_account.pot

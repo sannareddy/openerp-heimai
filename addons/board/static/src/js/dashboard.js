@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/board/static/src/js/dashboard.js

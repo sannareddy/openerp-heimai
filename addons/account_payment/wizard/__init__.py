@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/account_payment/wizard/__init__.py

@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/lunch/tests/test_lunch.py

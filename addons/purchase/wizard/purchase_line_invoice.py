@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/purchase/wizard/purchase_line_invoice.py

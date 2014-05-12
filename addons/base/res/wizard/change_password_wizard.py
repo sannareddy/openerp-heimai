@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/base/res/wizard/change_password_wizard.py

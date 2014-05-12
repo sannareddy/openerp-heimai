@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/web/doc/_themes/flask_theme_support.py

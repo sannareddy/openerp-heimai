@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/crm/wizard/crm_phonecall_to_opportunity.py

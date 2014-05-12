@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/portal_crm/__openerp__.py

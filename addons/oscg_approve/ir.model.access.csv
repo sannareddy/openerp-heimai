@@ -1,0 +1,5 @@
+id,perm_write,perm_create,perm_unlink,name,model_id/id,active,group_id/id,perm_read
+access_model_workflow_stage,True,True,True,workflow.stage,oscg_workflow.model_workflow_stage,True,base.group_user,True
+access_model_workflow_approve_user,True,True,True,workflow.approve.user,oscg_workflow.model_workflow_approve_user,True,base.group_user,True
+access_model_workflow_users,True,True,True,workflow.users,oscg_workflow.model_workflow_users,True,base.group_user,True
+access_model_workflow_base,True,True,True,workflow.base,oscg_workflow.model_workflow_base,True,base.group_user,True

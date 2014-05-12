@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/sale_crm/wizard/crm_make_sale.py

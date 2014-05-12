@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/hr_payroll_account/wizard/hr_payroll_payslips_by_employees.py

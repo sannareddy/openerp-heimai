@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/survey/__openerp__.py

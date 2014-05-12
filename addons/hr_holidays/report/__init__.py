@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/hr_holidays/report/__init__.py

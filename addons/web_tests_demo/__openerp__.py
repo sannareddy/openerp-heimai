@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/web_tests_demo/__openerp__.py

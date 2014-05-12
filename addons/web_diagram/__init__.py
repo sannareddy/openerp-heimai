@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/web_diagram/__init__.py

@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/account/account_analytic_line.py

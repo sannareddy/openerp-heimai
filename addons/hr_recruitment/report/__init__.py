@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/hr_recruitment/report/__init__.py

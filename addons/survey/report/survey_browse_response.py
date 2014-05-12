@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/survey/report/survey_browse_response.py

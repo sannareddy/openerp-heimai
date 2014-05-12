@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/document_ftp/ftpserver/abstracted_fs.py

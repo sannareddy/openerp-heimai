@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/base_import/static/lib/javascript-state-machine/state-machine.js

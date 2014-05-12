@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/tests/test_translate.py

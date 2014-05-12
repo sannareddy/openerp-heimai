@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/web/static/lib/jquery.ui.bootstrap/third-party/jQuery-UI-Date-Range-Picker/js/date.js

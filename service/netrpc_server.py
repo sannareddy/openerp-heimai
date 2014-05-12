@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/service/netrpc_server.py

@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/document/test_cindex.py

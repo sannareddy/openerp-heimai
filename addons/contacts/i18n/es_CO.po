@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/contacts/i18n/es_CO.po

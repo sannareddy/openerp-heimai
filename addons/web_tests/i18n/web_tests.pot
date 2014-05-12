@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/web_tests/i18n/web_tests.pot

@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/note_pad/i18n/note_pad.pot

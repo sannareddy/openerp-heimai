@@ -1,0 +1,9 @@
+README.rst
+setup.cfg
+setup.py
+magento_integration.egg-info/PKG-INFO
+magento_integration.egg-info/SOURCES.txt
+magento_integration.egg-info/dependency_links.txt
+magento_integration.egg-info/not-zip-safe
+magento_integration.egg-info/requires.txt
+magento_integration.egg-info/top_level.txt

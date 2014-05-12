@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/hr_timesheet_invoice/report/report_analytic.py

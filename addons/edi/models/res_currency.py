@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/edi/models/res_currency.py

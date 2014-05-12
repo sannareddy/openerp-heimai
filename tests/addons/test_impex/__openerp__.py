@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/tests/addons/test_impex/__openerp__.py

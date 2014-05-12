@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/web/static/lib/jquery.ui.bootstrap/third-party/wijmo/jquery.bgiframe-2.1.3-pre.js

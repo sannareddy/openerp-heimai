@@ -1,0 +1,18 @@
+Metadata-Version: 1.1
+Name: magento-integration
+Version: 0.1
+Summary: OpenERP Magento Integration
+Home-page: https://github.com/openlabs/magento-integration/
+Author: Openlabs Technologies & Consulting (P) Limited
+Author-email: info@openlabs.co.in
+License: GNU Affero General Public License v3
+Description: UNKNOWN
+Platform: any
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Web Environment
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: GNU Affero General Public License v3
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Topic :: Internet :: WWW/HTTP :: Dynamic Content
+Classifier: Topic :: Software Development :: Libraries :: Python Modules

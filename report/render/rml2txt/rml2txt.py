@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/report/render/rml2txt/rml2txt.py

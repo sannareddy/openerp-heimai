@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/mrp/wizard/mrp_product_produce.py

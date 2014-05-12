@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/marketing/__openerp__.py

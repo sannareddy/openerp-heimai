@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/web_view_editor/static/src/js/view_editor.js

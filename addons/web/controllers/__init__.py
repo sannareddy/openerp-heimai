@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/web/controllers/__init__.py

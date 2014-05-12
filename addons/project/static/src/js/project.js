@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/project/static/src/js/project.js

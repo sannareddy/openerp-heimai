@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/crm_profiling/wizard/__init__.py

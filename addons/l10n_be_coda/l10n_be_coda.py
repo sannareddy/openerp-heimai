@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/l10n_be_coda/l10n_be_coda.py

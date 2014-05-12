@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/account/edi/invoice.py

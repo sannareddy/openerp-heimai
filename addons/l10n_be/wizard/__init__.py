@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/l10n_be/wizard/__init__.py

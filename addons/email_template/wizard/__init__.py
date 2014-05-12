@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/email_template/wizard/__init__.py

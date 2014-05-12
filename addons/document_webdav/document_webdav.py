@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/document_webdav/document_webdav.py

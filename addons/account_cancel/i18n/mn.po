@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/account_cancel/i18n/mn.po

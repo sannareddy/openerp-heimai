@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/project_issue/report/__init__.py

@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/web_graph/static/src/js/graph.js

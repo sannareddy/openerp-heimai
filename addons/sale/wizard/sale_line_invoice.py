@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/sale/wizard/sale_line_invoice.py

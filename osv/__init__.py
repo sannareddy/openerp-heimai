@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/osv/__init__.py

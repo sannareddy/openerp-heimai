@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/web_shortcuts/__init__.py

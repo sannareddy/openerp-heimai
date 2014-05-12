@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/web_gantt/static/lib/dhtmlxGantt/sources/dhtmlxcommon.js

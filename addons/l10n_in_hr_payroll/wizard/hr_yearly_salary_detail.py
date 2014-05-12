@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/l10n_in_hr_payroll/wizard/hr_yearly_salary_detail.py

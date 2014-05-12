@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/account_payment/__init__.py

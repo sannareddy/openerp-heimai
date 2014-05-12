@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/tests/addons/test_uninstall/__openerp__.py

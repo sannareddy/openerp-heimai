@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/crm/wizard/crm_lead_to_opportunity.py

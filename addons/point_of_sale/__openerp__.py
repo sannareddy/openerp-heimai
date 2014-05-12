@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/point_of_sale/__openerp__.py

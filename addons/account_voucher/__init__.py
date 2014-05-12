@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/account_voucher/__init__.py

@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/web/tests/qunitsuite/suite.py

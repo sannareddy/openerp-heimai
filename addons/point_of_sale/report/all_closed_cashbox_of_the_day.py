@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/point_of_sale/report/all_closed_cashbox_of_the_day.py

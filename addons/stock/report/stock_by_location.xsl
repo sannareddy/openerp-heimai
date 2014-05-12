@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/stock/report/stock_by_location.xsl

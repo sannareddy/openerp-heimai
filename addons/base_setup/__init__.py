@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/base_setup/__init__.py

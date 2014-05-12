@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/account/report/account_partner_ledger.py

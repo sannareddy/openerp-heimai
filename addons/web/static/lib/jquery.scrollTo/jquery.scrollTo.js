@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/web/static/lib/jquery.scrollTo/jquery.scrollTo.js

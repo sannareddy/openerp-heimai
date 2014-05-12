@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/report/render/__init__.py

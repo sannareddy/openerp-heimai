@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/stock/report/lot_move_label.xsl

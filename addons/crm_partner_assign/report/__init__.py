@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/crm_partner_assign/report/__init__.py

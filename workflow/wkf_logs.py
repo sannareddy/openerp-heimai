@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/workflow/wkf_logs.py

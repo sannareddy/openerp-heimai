@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+    <data >
+        <record model="ir.module.category" id="oscg_approve_role_group">
+            <field name="name">审批角色</field>
+            <field name="description">OSCG审批角色用权限组</field>
+            <field name="sequence">200</field>
+        </record>
+
+        <record model="res.groups" id="group_approve_demo1">
+            <field name="name">角色示例1</field>
+            <field name="category_id" ref="oscg_approve_role_group"/>
+        </record>
+        <record model="res.groups" id="group_approve_demo2">
+            <field name="name">角色示例2</field>
+            <field name="category_id" ref="oscg_approve_role_group"/>
+        </record>
+    </data>
+</openerp>

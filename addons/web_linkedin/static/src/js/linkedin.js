@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/web_linkedin/static/src/js/linkedin.js

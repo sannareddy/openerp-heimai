@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/account/project/wizard/account_analytic_inverted_balance_report.py

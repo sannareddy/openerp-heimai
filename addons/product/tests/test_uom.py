@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/product/tests/test_uom.py

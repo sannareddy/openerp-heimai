@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/web/static/lib/jquery/jquery-1.8.3.js

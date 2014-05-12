@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/account_cancel/__init__.py

@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/product_margin/wizard/__init__.py

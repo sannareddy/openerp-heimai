@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/web/static/lib/jquery.ba-bbq/jquery.ba-bbq.js

@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/crm_helpdesk/__init__.py

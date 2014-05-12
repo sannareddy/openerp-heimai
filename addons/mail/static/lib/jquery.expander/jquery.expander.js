@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/mail/static/lib/jquery.expander/jquery.expander.js

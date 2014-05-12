@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/account_asset/__init__.py

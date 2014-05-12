@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/account_anglo_saxon/__init__.py

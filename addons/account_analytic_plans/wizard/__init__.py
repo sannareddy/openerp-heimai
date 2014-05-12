@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/account_analytic_plans/wizard/__init__.py

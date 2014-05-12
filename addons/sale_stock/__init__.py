@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/sale_stock/__init__.py

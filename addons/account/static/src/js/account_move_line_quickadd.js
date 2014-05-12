@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/account/static/src/js/account_move_line_quickadd.js

@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/web/static/lib/datejs/globalization/ar-BH.js

@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/analytic_user_function/i18n/id.po

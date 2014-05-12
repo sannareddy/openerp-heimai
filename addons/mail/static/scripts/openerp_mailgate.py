@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/mail/static/scripts/openerp_mailgate.py

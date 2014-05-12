@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/netsvc.py

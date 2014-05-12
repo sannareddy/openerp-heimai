@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/web_diagram/static/lib/js/Curry-1.0.1.js

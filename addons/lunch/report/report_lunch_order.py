@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/lunch/report/report_lunch_order.py

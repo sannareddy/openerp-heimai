@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/account_check_writing/__init__.py

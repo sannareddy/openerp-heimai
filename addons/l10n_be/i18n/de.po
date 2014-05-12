@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/l10n_be/i18n/de.po

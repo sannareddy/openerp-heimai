@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/portal/tests/test_portal.py

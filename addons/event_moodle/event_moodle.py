@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/event_moodle/event_moodle.py

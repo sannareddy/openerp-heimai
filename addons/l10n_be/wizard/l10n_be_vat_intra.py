@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/l10n_be/wizard/l10n_be_vat_intra.py

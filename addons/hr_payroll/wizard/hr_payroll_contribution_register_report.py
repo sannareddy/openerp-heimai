@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/hr_payroll/wizard/hr_payroll_contribution_register_report.py

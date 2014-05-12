@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/hr_recruitment/wizard/__init__.py

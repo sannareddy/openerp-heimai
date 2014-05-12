@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/decimal_precision/i18n/pt_BR.po

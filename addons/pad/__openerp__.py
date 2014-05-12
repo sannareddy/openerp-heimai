@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/pad/__openerp__.py

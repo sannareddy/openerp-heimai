@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/service/websrv_lib.py

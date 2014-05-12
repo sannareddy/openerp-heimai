@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/base_gengo/wizard/base_gengo_translations.py

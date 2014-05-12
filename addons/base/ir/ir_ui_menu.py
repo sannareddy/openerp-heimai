@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/base/ir/ir_ui_menu.py

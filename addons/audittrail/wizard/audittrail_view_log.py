@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/audittrail/wizard/audittrail_view_log.py

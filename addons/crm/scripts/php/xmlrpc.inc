@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/crm/scripts/php/xmlrpc.inc

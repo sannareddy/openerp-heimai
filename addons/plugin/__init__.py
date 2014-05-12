@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/plugin/__init__.py

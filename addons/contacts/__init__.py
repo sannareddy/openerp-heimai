@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/contacts/__init__.py

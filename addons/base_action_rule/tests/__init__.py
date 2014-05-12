@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/base_action_rule/tests/__init__.py

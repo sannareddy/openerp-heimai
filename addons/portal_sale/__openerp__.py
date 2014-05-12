@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/portal_sale/__openerp__.py

@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/procurement/wizard/schedulers_all.py

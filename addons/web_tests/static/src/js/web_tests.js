@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/web_tests/static/src/js/web_tests.js

@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/account/wizard/account_move_bank_reconcile.py

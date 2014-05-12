@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/document/odt2txt.py

@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/account_followup/tests/test_account_followup.py

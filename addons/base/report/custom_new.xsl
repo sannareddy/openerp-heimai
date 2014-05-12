@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/base/report/custom_new.xsl

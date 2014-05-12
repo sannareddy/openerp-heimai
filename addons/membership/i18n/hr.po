@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/membership/i18n/hr.po

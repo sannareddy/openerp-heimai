@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/mail/doc/mail_state.rst

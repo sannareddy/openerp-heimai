@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/account_payment/wizard/account_payment_populate_statement.py

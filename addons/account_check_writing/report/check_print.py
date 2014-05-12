@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/account_check_writing/report/check_print.py

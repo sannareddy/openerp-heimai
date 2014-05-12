@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/procurement/wizard/orderpoint_procurement.py

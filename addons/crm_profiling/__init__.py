@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/crm_profiling/__init__.py

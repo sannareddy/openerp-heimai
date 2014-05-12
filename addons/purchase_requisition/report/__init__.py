@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/purchase_requisition/report/__init__.py

@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/document_page/wizard/document_page_show_diff.py

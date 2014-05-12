@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/product/tests/__init__.py

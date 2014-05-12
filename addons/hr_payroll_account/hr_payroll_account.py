@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/hr_payroll_account/hr_payroll_account.py

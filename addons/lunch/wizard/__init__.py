@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/lunch/wizard/__init__.py

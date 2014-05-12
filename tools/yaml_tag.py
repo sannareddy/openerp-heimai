@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/tools/yaml_tag.py

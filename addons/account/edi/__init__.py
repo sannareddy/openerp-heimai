@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/account/edi/__init__.py

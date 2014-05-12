@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/auth_signup/static/src/js/auth_signup.js

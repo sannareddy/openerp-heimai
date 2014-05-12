@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/account/report/account_invoice_report.py

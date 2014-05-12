@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/l10n_in_hr_payroll/report/report_payroll_advice.py

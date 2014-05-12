@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/stock/wizard/stock_change_standard_price.py

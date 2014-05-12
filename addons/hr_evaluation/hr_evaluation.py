@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/hr_evaluation/hr_evaluation.py

@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/account_bank_statement_extensions/res_partner_bank.py

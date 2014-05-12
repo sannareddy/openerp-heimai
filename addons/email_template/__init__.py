@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/email_template/__init__.py

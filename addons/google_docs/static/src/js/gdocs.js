@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/google_docs/static/src/js/gdocs.js

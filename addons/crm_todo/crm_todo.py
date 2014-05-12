@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/crm_todo/crm_todo.py

@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/web/doc/search_view.rst

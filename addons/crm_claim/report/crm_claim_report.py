@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/crm_claim/report/crm_claim_report.py

@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/web/doc/form_view.rst

@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/point_of_sale/report/pos_report.py

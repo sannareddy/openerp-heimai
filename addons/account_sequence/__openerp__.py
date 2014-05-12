@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/account_sequence/__openerp__.py

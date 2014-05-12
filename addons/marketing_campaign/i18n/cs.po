@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/marketing_campaign/i18n/cs.po

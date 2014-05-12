@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/lunch/__init__.py

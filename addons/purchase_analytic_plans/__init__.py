@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/purchase_analytic_plans/__init__.py

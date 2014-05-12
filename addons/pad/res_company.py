@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/pad/res_company.py

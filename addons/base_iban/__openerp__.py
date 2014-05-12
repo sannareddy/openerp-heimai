@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/base_iban/__openerp__.py

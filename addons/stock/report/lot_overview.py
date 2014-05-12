@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/stock/report/lot_overview.py

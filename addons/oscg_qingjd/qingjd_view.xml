@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+    <data>
+        <!-- Top menu item -->
+        <menuitem id="base.menu_qingjia_root" name= "请假单申请" sequence="60"/>
+        <menuitem id="base.menu_qingjia" name= "请假单" parent="base.menu_qingjia_root" sequence="1" />
+
+        <!-- views -->
+        <record id="oscg_qingjd_form" model="ir.ui.view">
+            <field name="name">oscg.qingjd.form</field>
+            <field name="model">oscg_qingjd</field>
+            <field name="type">form</field>
+            <field name="arch" type="xml">
+                <form string="QingJiaDan" version="7.0">
+                <sheet>
+                    <group>
+                        <group>
+                            <field name="shenqr"/>
+                            <field name="kaisrq"/>
+                            <field name="jiesrq"/>
+                            <field name="tians"/>
+                            <field name="period_id"/>
+                        </group>
+                        <group>
+                            <field name="shiyou"/>
+                        </group>
+                    </group>
+                    <separator colspan="5" string="审批流程"/>
+                    <group col="5" colspan="5">
+                        <field name="state"/>
+                        <button string="送批" name="action_toprove" states="draft"/>
+                        <button string="批准" name="action_prove"   states="wait_prove"/>
+                        <button string="拒绝" name="action_reject"  states="draft,wait_prove"/>
+                    </group>
+                </sheet>
+                </form>
+            </field>
+        </record>
+
+        <record id="oscg_qingjd_tree" model="ir.ui.view">
+            <field name="name">oscg.qingjd.tree</field>
+            <field name="model">oscg_qingjd</field>
+            <field name="type">tree</field>
+            <field name="arch" type="xml">
+                <tree string="QingJiaDan">
+                    <field name="shenqr" select="1"/>
+                    <field name="tians" />
+                    <field name="kaisrq" select="1"/>
+                    <field name="shiyou" />
+                    <field name="state" select="1"/>
+                </tree>
+            </field>
+        </record>
+
+        <!-- actions -->
+        <record id="action_qingjd_form" model="ir.actions.act_window">
+            <field name="name">请假单</field>
+            <field name="type">ir.actions.act_window</field>
+            <field name="res_model">oscg_qingjd</field>
+            <field name="view_type">form</field>
+            <field name="view_mode">tree,form</field>
+            <field name="view_id" ref="oscg_qingjd_tree"/>
+        </record>
+
+        <!-- menuitem -->
+        <menuitem  id="menu_oscg_qingjd" action="action_qingjd_form" parent="base.menu_qingjia" sequence="6"/>
+        
+    </data>
+</openerp>

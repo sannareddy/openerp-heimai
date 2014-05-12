@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/note/i18n/hr.po

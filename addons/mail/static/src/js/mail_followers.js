@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/mail/static/src/js/mail_followers.js

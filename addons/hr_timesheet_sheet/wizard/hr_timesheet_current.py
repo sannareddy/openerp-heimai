@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/hr_timesheet_sheet/wizard/hr_timesheet_current.py

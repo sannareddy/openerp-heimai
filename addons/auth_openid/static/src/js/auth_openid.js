@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/auth_openid/static/src/js/auth_openid.js

@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/hr_timesheet/i18n/sr@latin.po

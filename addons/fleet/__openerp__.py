@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/fleet/__openerp__.py

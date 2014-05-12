@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/purchase/edi/__init__.py

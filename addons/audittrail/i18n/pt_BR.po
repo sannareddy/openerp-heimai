@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/audittrail/i18n/pt_BR.po

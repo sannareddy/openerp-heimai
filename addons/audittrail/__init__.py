@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/audittrail/__init__.py

@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/account_budget/report/__init__.py

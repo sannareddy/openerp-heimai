@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/tools/__init__.py

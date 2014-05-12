@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/mrp_repair/wizard/__init__.py

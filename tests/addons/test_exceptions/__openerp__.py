@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/tests/addons/test_exceptions/__openerp__.py

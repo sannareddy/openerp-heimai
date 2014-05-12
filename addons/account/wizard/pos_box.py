@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/account/wizard/pos_box.py

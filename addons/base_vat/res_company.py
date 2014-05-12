@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/base_vat/res_company.py

@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/l10n_be_coda/wizard/account_coda_import.py

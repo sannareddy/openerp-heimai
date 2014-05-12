@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/stock/tests/test_multicompany.py

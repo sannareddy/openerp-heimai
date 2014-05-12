@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/account/account_cash_statement.py

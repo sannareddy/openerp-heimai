@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/report/render/odt2odt/__init__.py

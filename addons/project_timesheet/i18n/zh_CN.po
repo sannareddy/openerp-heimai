@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/project_timesheet/i18n/zh_CN.po

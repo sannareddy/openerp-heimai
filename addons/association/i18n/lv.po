@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/association/i18n/lv.po

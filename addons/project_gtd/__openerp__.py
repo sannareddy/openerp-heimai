@@ -1,0 +1,1 @@
+/usr/share/pyshared/openerp/addons/project_gtd/__openerp__.py
